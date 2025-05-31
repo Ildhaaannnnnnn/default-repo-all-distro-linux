@@ -1,0 +1,6 @@
+[updates]
+name=Fedora $releasever - $basearch - Updates
+baseurl=https://download.fedoraproject.org/pub/fedora/linux/updates/$releasever/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-$basearch

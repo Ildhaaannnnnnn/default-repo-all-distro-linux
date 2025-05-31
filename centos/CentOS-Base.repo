@@ -1,0 +1,5 @@
+[base]
+name=CentOS-$releasever - Base
+baseurl=http://mirror.centos.org/centos/$releasever/os/$basearch/
+enabled=1
+gpgcheck=1

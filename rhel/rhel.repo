@@ -1,0 +1,6 @@
+[rhel-baseos]
+name=Red Hat Enterprise Linux $releasever - BaseOS
+baseurl=https://cdn.redhat.com/content/dist/rhel8/$basearch/baseos/os
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
