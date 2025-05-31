@@ -1,5 +1,5 @@
 <p align="center">
-   <im src="logo.jpg" width="250" alt="Default Repo All Distro Linux Logo">
+   <img src="logo.jpg" width="250" alt="Default Repo All Distro Linux Logo">
 </p>
 
 # Default Repository Collection for All Major Linux Distributions
